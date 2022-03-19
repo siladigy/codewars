@@ -1,1 +1,3 @@
-weirdReverse=a=>a.sort(a=>1)
+function multiply(a, b){
+    return (BigInt(a) * BigInt(b)).toString()
+}
